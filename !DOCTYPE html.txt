@@ -1,0 +1,164 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+   link rel=stylesheet href=.estilos.css
+    titleDocumenttitle
+head
+body
+ h1hola mundoh1
+ buttonclick aquibutton
+backgroun-image urlImagenesfondovirtualparasoomfotografiarosa(1).jpg;
++   cabeza
++     cuerpo
++      encabezado
++      nav  class=barra de navegacion-expand-lg-bg-transparent
++      div  clss=contenedor-fluidodiv
++        a clas=marca de barra de navegacionhref= # 
++        img  src =.Imageneslogo derecho.pngalt=logowidth=170px
++        a
++       
++        boton clase=navbar-togglertipobotondata-bs-toggle=contraerdata-bs-targer=
++  #navbarsupportedcontentaria-controls=navbarsuporcontentaria-expanded=falsoaria-level=Alternar navegacionboton     
++      nav  boton
++       div  class =colapsarbarra de navegacion-colapsarbarra de navegacionsuportedcontentdiv
++   .mYbuttondho
++     li class=elemento de navegacion
++     class=enlace de navegacion activoaria-current=paginahref=#class
++     boton class=mYbuttonboton inicioboton
++     a
++     li
++       li class=elementode navegacion
++      a class= nav-link href= #derecho
++      botton clas =mYbuttonAcerca debotton
++      a
++      li  
++      li  class =elemento de navegacionli
++      a class =enlace de navegacionhref= # a
++      botton clas =mYbutton nuestros serviciosbotton
++    a
++    li
++      ulul
++      divdiv
++      a  href=
++      botton clase =mibotton  i clase =fa-solid fa-useribotton
++         a
++      a href= a
++      botton clase = mi boton  i clase = fa-solido-fa-corazon botton
++       a
++     a href =
++     div class=mytittlediv
++     a 
++       div
++       div
++      div
++      nav
++     
++        encabezado   
++       
++       principal
++     
++       seccion id =aterrizajeseccion
++       div id =carruselEsampleclass=diapositiva del carruseldiv
++      div class = carrusel- inernodiv
++      div class =  elemento del carrusel activo 
++       div class = fila justificar -el- centro-del- contenido alinear- los-elementos -al-centrodiv
++         div class = col -6 
++       src =.Imagenesgavel-7499911_640 (1).jpg alt =class=d-block w-100src
++     div
++          div class =col-6 contenidoland  div
++    div class = contenedor 
++    div class = fila div
++     div class =col-12 w - 75  
++      h1 class = mYtittle servicios juridicosy peritajes psicologicosh1
++      divdiv
++      div class= col-12 w -75 div
++     p asesoria completamente gratisp
++      a href =  .  formulario .html  a
++      boton clase =mYbutton llamanos o escribe para atenderteboton
++      a 
++     div
++         divdiv
++    div
++      divdiv
++     div
++    div
++     div class = elementos-carrusel
++     div class = fila justificar -el.centro-del-contenido alinear-los elementos-al-centrodiv
++      div class = co1-6div
++   img src= .imaganesima2.jpg alt=class =d-block w -100
++    divdiv
++    div class = co1-6 
++     div class= contenedor 
++     div class = filadiv
++    div class = co1-12 w - 75  div
++    h1 class = mYtittleservicios juridicos en derecho h1
++    div
++       div class= co1.12 w-75
++      p  Abogado Dra.Sofia henaop
++    a href =a
++    boton clase = mYbutton  resolver litigios con el estadoboton
++      a
++        divdiv
++         div
++         div
++          div
++          divdiv
++          div   
++      div class = elementos-carrusel  
++     div class =  fila justificar-el-centro-del-contenido alinear-los-elementos-al-al-centro
++       div class =  co2-6 div
++     img src =.Imagenesima.jpg  alt = class = d-block w- 100
++           div
++              div class = co1 -6 
++             div class = contenedor div
++             div class= filadiv
++            div class = co1- 12 w-75
++  h1 class = mYtittle serviciosjuridico al servicio constitucionalh
++              div
++   div class = co1 -12 w -75div
++   p  pAbogado DR.martin galindop
++    a  href = 
++     button class =  se transmiten tutelas a button
++     a 
++      divdiv
++      div
++         div 
++          divdiv
++         div 
++        div
++        div class = elemento -carusel
++        div class= fila justificar-el- centro-del-contenido alinear-los-elementos-al centro
++        div class =  co1-6  
++     img src = .Imagenesima4.jpg alt = class= d-block w -100
++     div
++     div class= co1-6div
++       div class= contenedordiv
++         div class =2 fila
++        div class = co1-12 w-75
++       h1 class = mYtittle servicios en derecho laboralh1
++       divdiv
++       div class = co1-12 
++       p Abogado DR. jose pazp
++       a href = a
++   boton clase =  mi boton  escribe con gusto te atiendoboton
++        a
++            div
++             divdiv
++        div
++          div
++        divdiv
++        div
++        divdiv
++   boton clase =carrusel-control-prev tipo =botondatos-bs-target=
++    span class = icono-previo-de-comtrol-carruselaria-hidden=truespan
+span
++   botonboton
++   boton class = carruse-control-siguiente tipo= boton datos-bs-terget
++   span class = icono-siguiente-carrusel-control-aria-hidden=true span
++   span class = visually-hidden siguientespan
++  boton
++    divdiv
++    sectionsection
++    -
